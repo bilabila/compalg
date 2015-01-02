@@ -14,7 +14,7 @@ import javax.swing.JTextPane;
 
 /**
  *
- * @author hp
+ * @author Bilabila
  */
 public final class ConversorParaLC extends javax.swing.JDialog {
  
